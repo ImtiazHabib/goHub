@@ -1,0 +1,469 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-family: 'Merriweather', serif;
+	font-size: 14px;
+	line-height: 24px;
+}
+h1,h2,h3,h4,h5,h6{
+   font-family: 'Ubuntu', sans-serif;
+}
+a,a:hover{
+	text-decoration: none;
+}
+/*gohub project start */
+
+/* header section start */
+.header-section{
+	width: 100%;
+	background: url(../img/bannerbg.png)center top no-repeat;
+	background-size: cover;
+	padding: 14px 10px 93px 33px;
+}
+.header-section .bg-light{
+	background: transparent !important;
+}
+.header-section .navbar-light .navbar-nav .active>.nav-link{
+	color: black;
+}
+.header-section .navbar-light .navbar-nav .nav-link {
+     margin: 5px 28px 4px 5px;
+    color: #32325d;
+    font-size: 17px;
+    font-weight: 600;
+    transition: 1s;
+}
+.header-section .navbar-light .navbar-nav .nav-link:hover {
+    color: #9290f4;
+}
+.header-section .main-menu .btn{
+	 background: #845cff;
+    font-size: 19px;
+    font-weight: 600;
+    color: white;
+    transition: 1s;
+}
+.header-section .main-menu .btn:hover{
+	 color: #05a9f4;
+	 background: transparent;
+}
+.header-section .inner-banner{
+	    padding: 17px 0px 22px 0px;
+    margin: 116px 2px 50px 9px;
+    width: 100%;
+    
+}
+.header-section .inner-banner h4{
+	    color: #32325d;
+    font-size: 38px;
+    font-weight: 700;
+    padding: 16px 8px 18px 17px;
+    margin: 26px 2px 5px 64px;
+}
+.header-section .inner-banner p{
+	         color: #525f7f;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 0px 8px 22px 17px;
+    margin: 7px 2px 5px 64px;
+}
+.header-section .inner-banner .inner-banner-btn a{
+        padding: 1px 5px 0px 5px;
+    margin: 4px 11px 5px 7px;
+    background: #845cff;
+    font-size: 22px;
+    font-weight: 600;
+    color: white;
+    transition: 1s;
+}
+.header-section .inner-banner .inner-banner-btn a:hover{
+     color: #05a9f4;
+	 background: transparent;
+}
+.header-section .inner-banner .inner-banner-btn p{
+        color: #32325d;
+    font-size: 18px;
+    font-weight: 600;
+    margin-right: 9px;
+}
+.header-section .inner-about-us-title{
+	    position: relative;
+    width: 100%;
+    top: 154px;
+}
+.header-section .inner-about-us-title h4{
+         color: #32325d;
+    font-size: 32px;
+    font-weight: 500;
+    padding: 98px 8px 9px 18px;
+    margin: 27px 2px 5px 64px;
+}
+.header-section .inner-about-us-title p{
+        color: #727b94;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 11px 8px 22px 17px;
+    margin: 7px 2px 5px 64px;
+    line-height: 27px;
+}
+.header-section .inner-about-us-part1{
+      padding: 35px 6px 0px 17px;
+    margin: 9px 2px 5px 15px;
+    width: 100%;
+    background: white;
+    position: relative;
+    top: 78px;
+}
+.header-section .inner-about-us-part1 img{
+	    padding: 2px 6px 0px 17px;
+    margin: 18px 2px 5px 15px;
+    width: 33%;
+}
+.header-section .inner-about-us-part1 h5{
+	    color: #32325d;
+    font-size: 26px;
+    font-weight: 400;
+    padding: 26px 2px 9px 11px;
+    margin: 13px 2px 5px 20px;
+}
+.header-section .inner-about-us-part1 p{
+	    color: #727b94;
+    font-size: 15px;
+    font-weight: 400;
+    padding: 2px 8px 22px 17px;
+    margin: 7px 2px 5px 15px;
+    line-height: 24px;
+}
+.about-us{
+	width: 100%;
+	padding: 40px 0px;
+	
+}
+
+.about-us .inner-about-us-part2{
+      padding: 0px 6px 0px 17px;
+    margin: 0px 2px 5px 15px;
+    width: 100%;
+    background: white;
+    position: relative;
+    top: 78px;
+}
+.about-us .inner-about-us-part2 img{
+	    padding: 2px 6px 0px 17px;
+    margin: 18px 2px 5px 15px;
+    width: 33%;
+}
+.about-us  .inner-about-us-part2 h5{
+	    color: #32325d;
+    font-size: 26px;
+    font-weight: 400;
+    padding: 26px 2px 9px 11px;
+    margin: 13px 2px 5px 20px;
+}
+.about-us  .inner-about-us-part2 p{
+	    color: #727b94;
+    font-size: 15px;
+    font-weight: 400;
+    padding: 2px 8px 22px 17px;
+    margin: 7px 2px 5px 15px;
+    line-height: 24px;
+}
+
+.about-us  .inner-about-us-part3{
+      padding: 0px 6px 0px 17px;
+    margin: 0px 2px 5px 15px;
+    width: 100%;
+    background: white;
+    position: relative;
+    top: 78px;
+}
+.about-us  .inner-about-us-part3 img{
+	    padding: 2px 6px 0px 17px;
+    margin: 18px 2px 5px 15px;
+    width: 33%;
+}
+.about-us .inner-about-us-part3 h5{
+	    color: #32325d;
+    font-size: 26px;
+    font-weight: 400;
+    padding: 26px 2px 9px 11px;
+    margin: 13px 2px 5px 20px;
+}
+.about-us .inner-about-us-part3 p{
+	    color: #727b94;
+    font-size: 15px;
+    font-weight: 400;
+    padding: 2px 8px 22px 17px;
+    margin: 7px 2px 5px 15px;
+    line-height: 24px;
+}
+.service-section{
+	width: 100%;
+	background: url(../img/servicebg.png)center top no-repeat;
+	background-size: cover;
+	padding: 80px 0px;
+}
+.service-section .inner-service-title{
+	width: 100%;
+	text-align: center;
+}
+.service-section .inner-service-title h4{
+       font-weight: 400;
+    color: #32325d;
+    font-size: 33px;
+    padding: 5px 5px 13px 5px;
+}
+.service-section .inner-service-title p{
+        font-weight: 400;
+    color: #80889d;
+    font-size: 16px;
+    padding: 5px 5px 67px 5px;
+}
+.service-section .middle-row{
+	padding: 30px 0px;
+}
+.service-section .service-name{
+	width: 100%;
+	text-align: center;
+}
+.service-section .service-name img{
+	 
+    width: 35%;
+}
+.service-section .service-name h5{
+	     color: #32325d;
+    font-size: 23px;
+    font-weight: 400;
+    padding: 26px 2px 9px 9px;
+    margin: 13px 2px 5px 8px;
+
+}
+.service-section .service-name p{
+	       color: #727b94;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 2px 0px 22px 2px;
+    margin: 9px 2px 5px 6px;
+    line-height: 22px;
+}
+/* safty section start */
+.safty-section{
+	width: 100%;
+	padding: 80px 0px;
+}
+.safty-section .inner-text{
+
+}
+.safty-section .inner-text h4{
+	    font-weight: 400;
+    color: #32325d;
+    font-size: 33px;
+    padding: 5px 5px 13px 5px;
+}
+.safty-section .inner-text p{
+	    font-weight: 400;
+    color: #80889d;
+    font-size: 16px;
+    padding: 5px 5px 25px 5px;
+}
+.safty-section .inner-text .Questions{
+	    color: #32325d;
+    font-size: 18px;
+    font-weight: 600;
+    margin-right: 9px;
+}
+.safty-section .inner-text .Questions .btn{
+	    padding: 1px 5px 0px 5px;
+    margin: 4px 11px 5px 7px;
+    background: #845cff;
+    font-size: 22px;
+    font-weight: 600;
+    color: white;
+    transition: 1s;
+}
+.safty-section .inner-text .Questions .btn:hover{
+	    color: #05a9f4;
+    background: transparent;
+}
+.safty-section .inner-text  .fa{
+	   
+}
+.safty-section .inner-picture{
+	width: 100%;
+}
+.safty-section .inner-picture img{
+	width: 100%;
+}
+/* safty section end */
+/*safty section part1 start */
+.safty-section-part2{
+	width: 100%;
+	padding: 80px 0px;
+}
+.safty-section-part2 .inner-text{
+
+}
+.safty-section-part2 .inner-text h4{
+	    font-weight: 400;
+    color: #32325d;
+    font-size: 33px;
+    padding: 5px 5px 13px 5px;
+}
+.safty-section-part2 .inner-text p{
+	    font-weight: 400;
+    color: #80889d;
+    font-size: 16px;
+    padding: 5px 5px 25px 5px;
+}
+.safty-section-part2 .inner-text .Questions{
+	    color: #32325d;
+    font-size: 18px;
+    font-weight: 600;
+    margin-right: 9px;
+}
+.safty-section-part2 .inner-text .Questions .btn{
+	    padding: 1px 5px 0px 5px;
+    margin: 4px 11px 5px 7px;
+    background: #845cff;
+    font-size: 22px;
+    font-weight: 600;
+    color: white;
+    transition: 1s;
+}
+.safty-section-part2 .inner-text .Questions .btn:hover{
+	    color: #05a9f4;
+    background: transparent;
+}
+.safty-section-part2 .inner-text  .fa{
+	   
+}
+.safty-section-part2 .inner-picture{
+	width: 100%;
+}
+.safty-section-part2 .inner-picture img{
+	width: 100%;
+}
+/*safty section part1 end  */
+/*what we do section start*/
+.what-we-do-section{
+  width: 100%;
+  padding: 80px 0px;
+}
+.what-we-do-section .inner-what-we-do-section-part1 h4{
+	    font-weight: 400;
+    color: #32325d;
+    font-size: 33px;
+    padding: 5px 5px 13px 5px;
+}
+.what-we-do-section .inner-what-we-do-section-part1 p{
+	    font-weight: 400;
+    color: #80889d;
+    font-size: 16px;
+    padding: 5px 5px 53px 5px;
+}
+.what-we-do-section .inner-what-we-do-section-part1 .save-time-para{
+           font-weight: 400;
+    color: #80889d;
+    font-size: 16px;
+    padding: 5px 5px 25px 0px;
+}
+.what-we-do-section .inner-what-we-do-section-part1 .save-time-para .fa{
+        padding: 0px 5px 0px 0px;
+    margin: 9px 11px 18px 0px;
+}
+.what-we-do-section .inner-picture img{
+        width: 122%;
+    height: 26%;
+}
+
+/* what we do section end */
+/*request section start*/
+.request-section{
+	width: 100%;
+	padding: 30px 0px;
+	background: #fafaff;
+}
+.request-section .inner-request-part1 h4{
+           font-weight: 400;
+    color: #32325d;
+    font-size: 37px;
+    padding: 5px 5px 5px 0px;
+}
+.request-section .inner-request-part1 p{
+      font-weight: 400;
+    color: #80889d;
+    font-size: 16px;
+    padding: 0px 3px 0px 5px;
+}
+.request-section .inner-request-part2 .input-group{
+         padding: 0px 5px 0px 0px;
+    margin: 38px 0px 18px 0px;
+}
+.request-section .inner-request-part2 .input-group .form-control{
+  border-style: none;
+  
+}
+.request-section input::-webkit-input-placeholder{
+	color: #8081ab;
+}
+.request-section .inner-request-part2 .input-group .input-group-text{
+	     background: white;
+    padding: 0px 6px 0px 0px;
+    margin: 0px 0px 18px 0px;
+    border-style: none;
+    
+}
+.request-section .inner-request-part2 .input-group .input-group-text .btn{
+	color: #845cff;
+}
+/*request section end */
+/*footer section start*/
+.footer-section{
+	width: 100%;
+	padding: 80px 0px 30px;
+	background: #212240;
+}
+.footer-section p{
+	color: #d6d6d9;
+	font-weight: 400;
+}
+.footer-section .mobile-number{
+	     padding: 24px 6px 0px 0px;
+    margin: 0px 0px 42px 0px;
+    
+}
+.footer-section .social-icon{
+     padding: 0px 6px 0px 0px;
+    margin: 0px 0px 18px 0px;
+}
+.footer-section .social-icon .fa{
+      transition: 1s;
+    font-size: 17px;
+    padding: 10px 21px 0px 0px;
+    margin: 0px 0px 18px 0px;
+}
+.footer-section .social-icon .fa:hover{
+	color: #845cff;
+}
+.footer-section .inner-footer{
+	line-height: 42px;
+}
+.footer-section .copyright-part{
+	color: #555377;
+	 padding: 143px 36px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+.footer-section .copyright-part ul{
+	display: block;
+	text-align: right;
+}
+.footer-section .copyright-part li{
+	    display: inline-block;
+    list-style: none;
+    padding: 0px 36px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+/* footer section end */
+/*gohub project end */
