@@ -1,0 +1,278 @@
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+  .header-section .inner-banner h4 {
+    color: #32325d;
+    font-size: 29px;
+    font-weight: 700;
+    padding: 0px 8px 18px 0px;
+    margin: 0px 2px 5px 0px;
+   }
+  .header-section .inner-banner p {
+    color: #525f7f;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 0px 8px 22px 0px;
+    margin: 7px 2px 5px 0px;
+   }
+   .header-section .inner-banner {
+    padding: 17px 0px 0px 0px;
+    margin: 18px 2px 0px 9px;
+    width: 100%;
+   }
+   .header-section .inner-banner .inner-banner-btn p {
+       padding: 0px 41px 5px 0px;
+    color: #32325d;
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0px 5px 0px 0px;
+  }
+  .header-section .inner-banner .inner-banner-btn a {
+    padding: 1px 5px 0px 5px;
+    margin: 4px 13px 10px 53px;
+    background: #845cff;
+    font-size: 22px;
+    font-weight: 600;
+    color: white;
+    transition: 1s;
+  }
+  .header-section .inner-about-us-title h4 {
+    color: #32325d;
+    font-size: 31px;
+    font-weight: 500;
+    padding: 0px 8px 9px 0px;
+    margin: 0px 2px 5px 0px;
+ }
+ .header-section .inner-about-us-title {
+    position: relative;
+    width: 100%;
+    top: 70px;
+  }
+  .header-section .inner-about-us-title p {
+    color: #727b94;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 11px 8px 22px 0px;
+    margin: 7px 2px 5px 7px;
+    line-height: 27px;
+ }
+  .header-section .inner-about-us-part1 {
+    padding: 35px 6px 0px 17px;
+    margin: 56px 2px 5px 15px;
+    width: 100%;
+    background: white;
+    position: relative;
+    top: 78px;
+  }
+  .header-section .inner-about-us-part1 img {
+    padding: 2px 6px 0px 17px;
+    margin: 18px 2px 5px 0px;
+    width: 45%;
+  }
+  .safty-section .inner-text h4 {
+    font-weight: 400;
+    color: #32325d;
+    font-size: 31px;
+    padding: 5px 5px 13px 5px;
+  }
+  .safty-section .inner-text .Questions h4{
+    color: #32325d;
+    font-size: 31px;
+    font-weight: 500;
+    padding: 0px 8px 9px 0px;
+    margin: 0px 2px 5px 0px;
+  }
+  .safty-section .inner-text .Questions .btn {
+    padding: 1px 5px 0px 5px;
+    margin: 4px 22px 19px 98px;
+    background: #845cff;
+    font-size: 22px;
+    font-weight: 600;
+    color: white;
+    transition: 1s;
+  }
+  .safty-section-part2 .inner-text h4 {
+    font-weight: 400;
+    color: #32325d;
+    font-size: 31px;
+    padding: 25px 5px 13px 5px;
+  }
+  .safty-section-part2 .inner-text .Questions .btn {
+    padding: 1px 5px 0px 5px;
+    margin: 4px 11px 21px 109px;
+    background: #845cff;
+    font-size: 22px;
+    font-weight: 600;
+    color: white;
+    transition: 1s;
+   }
+    .what-we-do-section {
+    width: 100%;
+    padding: 50px 0px;
+    }
+    .what-we-do-section .inner-what-we-do-section-part1 p {
+    font-weight: 400;
+    color: #80889d;
+    font-size: 16px;
+    padding: 5px 5px 23px 5px;
+   }
+}
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+  .header-section .inner-banner h4 {
+    color: #32325d;
+    font-size: 29px;
+    font-weight: 700;
+    padding: 0px 8px 18px 0px;
+    margin: 0px 2px 5px 0px;
+   }
+  .header-section .inner-banner p {
+    color: #525f7f;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 0px 8px 22px 0px;
+    margin: 7px 2px 5px 0px;
+   }
+   .header-section .inner-banner {
+    padding: 17px 0px 0px 0px;
+    margin: 18px 2px 0px 9px;
+    width: 100%;
+   }
+   .header-section .inner-banner .inner-banner-btn p {
+       padding: 0px 41px 5px 0px;
+    color: #32325d;
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0px 5px 0px 0px;
+  }
+  .header-section .inner-banner .inner-banner-btn a {
+        padding: 1px 5px 0px 5px;
+    margin: 4px 13px 10px 0px;
+    background: #845cff;
+    font-size: 22px;
+    font-weight: 600;
+    color: white;
+    transition: 1s;
+  }
+  .header-section .inner-about-us-title h4 {
+    color: #32325d;
+    font-size: 31px;
+    font-weight: 500;
+    padding: 0px 8px 9px 0px;
+    margin: 0px 2px 5px 0px;
+ }
+ .header-section .inner-about-us-title {
+    position: relative;
+    width: 100%;
+    top: 70px;
+  }
+  .header-section .inner-about-us-title p {
+    color: #727b94;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 11px 8px 22px 0px;
+    margin: 7px 2px 5px 7px;
+    line-height: 27px;
+ }
+  .header-section .inner-about-us-part1 {
+    padding: 35px 6px 0px 17px;
+    margin: 56px 2px 5px 15px;
+    width: 100%;
+    background: white;
+    position: relative;
+    top: 78px;
+  }
+  .header-section .inner-about-us-part1 img {
+    padding: 2px 6px 0px 17px;
+    margin: 18px 2px 5px 0px;
+    width: 45%;
+  }
+  .safty-section .inner-text h4 {
+    font-weight: 400;
+    color: #32325d;
+    font-size: 31px;
+    padding: 5px 5px 13px 5px;
+  }
+  .safty-section .inner-text .Questions h4{
+    color: #32325d;
+    font-size: 31px;
+    font-weight: 500;
+    padding: 0px 8px 9px 0px;
+    margin: 0px 2px 5px 0px;
+  }
+  .safty-section .inner-text .Questions .btn {
+        padding: 1px 5px 0px 5px;
+    margin: 4px 22px 19px 0px;
+    background: #845cff;
+    font-size: 22px;
+    font-weight: 600;
+    color: white;
+    transition: 1s;
+  }
+  .safty-section-part2 .inner-text h4 {
+    font-weight: 400;
+    color: #32325d;
+    font-size: 31px;
+    padding: 25px 5px 13px 5px;
+  }
+  .safty-section-part2 .inner-text .Questions .btn {
+       padding: 1px 5px 0px 5px;
+    margin: 4px 11px 5px 0px;
+    background: #845cff;
+    font-size: 22px;
+    font-weight: 600;
+    color: white;
+    transition: 1s;
+   }
+    .what-we-do-section {
+    width: 100%;
+    padding: 50px 0px;
+    }
+    .what-we-do-section .inner-what-we-do-section-part1 p {
+    font-weight: 400;
+    color: #80889d;
+    font-size: 16px;
+    padding: 5px 5px 23px 5px;
+   }
+}
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+  .header-section .inner-banner .inner-banner-btn p {
+    color: #32325d;
+    font-size: 14px;
+    font-weight: 600;
+    margin-right: 9px;
+    padding: 5px 2px 5px 5px;
+   }
+   .safty-section .inner-text .Questions {
+    padding: 5px 2px 5px 5px;
+    color: #32325d;
+    font-size: 18px;
+    font-weight: 600;
+    margin-right: 9px;
+    }
+    .safty-section-part2 .inner-text .Questions {
+    padding: 5px 2px 5px 5px;
+    color: #32325d;
+    font-size: 18px;
+    font-weight: 600;
+    margin-right: 9px;
+   }
+}

@@ -49,6 +49,20 @@ a,a:hover{
 	 color: #05a9f4;
 	 background: transparent;
 }
+ .navbar-wrapper {
+  margin-top:0px;
+  position: relative;
+  z-index: 15;
+ 
+
+}
+.header-section  .isStuck{
+    left:0px;
+    width:100%;
+     background: transparent !important;
+}
+
+
 .header-section .inner-banner{
 	    padding: 17px 0px 22px 0px;
     margin: 116px 2px 50px 9px;
@@ -417,6 +431,11 @@ a,a:hover{
 }
 .request-section .inner-request-part2 .input-group .input-group-text .btn{
 	color: #845cff;
+	transition: 1s;
+}
+.request-section .inner-request-part2 .input-group .input-group-text .btn:hover{
+	color: #212240;
+	font-size: 18px;
 }
 /*request section end */
 /*footer section start*/
